@@ -2,4 +2,4 @@
 
 Aplicación desplegada en:
 
-https://inserta-tarea-accesibilidad.netlify.app
+https://thu-shulito19.netlify.app/
